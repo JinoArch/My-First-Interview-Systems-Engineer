@@ -1,3 +1,5 @@
+#This scripts belongs to Jino and no one else is responsible if something goes wrong
+
 import flask
 import docker
 import os
